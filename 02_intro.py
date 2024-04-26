@@ -9,6 +9,12 @@ import xlrd
 
 # import numpy as np\
 
+a = 2
+b
+
+c
+
+
 os.chdir("../input")\
 # pwd
 
