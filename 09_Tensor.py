@@ -18,3 +18,5 @@ model = tf.keras.models.Sequential([
 
 predictions = model(x_train[:1]).numpy()
 predictions
+
+#.. TBD
