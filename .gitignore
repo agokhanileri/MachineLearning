@@ -1,6 +1,7 @@
 # PersonalIgnore
 .idea/
 .vscode/
+.gitattributes
 
 
 # Byte-compiled / optimized / DLL files
